@@ -1,8 +1,9 @@
 import scala.collection.mutable.ArrayBuffer
 
+
 object Main extends App {
-  val lista : ArrayBuffer[Int] = ArrayBuffer(1,2,3,4,5,6)
-  println(lista.mkString(", "))
-  lista.addOne(7)
-  print(lista.mkString(", "))
+ val Usuario1 = new Usuario("Caique", "0000000", "Salvador")
+ val time1 = new Times("Vitoria", "Bahia")
+ Usuario1.AdicionarTimes(timeProps = time1 )
+ Usuario1.ListarTimes()
 }

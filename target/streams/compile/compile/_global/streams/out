@@ -1,7 +1,10 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Desktop\escala_estudos\src\main\scala\Main.scala:3:14: '<-' expected but '=' found.[0m
-[0m[[0m[31merror[0m] [0m[0m  for(i: Int =0, range(lista)){[0m
-[0m[[0m[31merror[0m] [0m[0m             ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Desktop\escala_estudos\src\main\scala\Main.scala:6:1: illegal start of simple expression[0m
-[0m[[0m[31merror[0m] [0m[0m}[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Desktop\escala_estudos\src\main\scala\Usuario.scala:1:8: object ArrayBuffer is not a member of package collection[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.collection.ArrayBuffer[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Desktop\escala_estudos\src\main\scala\Usuario.scala:7:22: not found: type ArrayBuffer[0m
+[0m[[0m[31merror[0m] [0m[0m    var listaTimes : ArrayBuffer[Times] = ArrayBuffer();[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Desktop\escala_estudos\src\main\scala\Usuario.scala:7:43: not found: value ArrayBuffer[0m
+[0m[[0m[31merror[0m] [0m[0m    var listaTimes : ArrayBuffer[Times] = ArrayBuffer();[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
