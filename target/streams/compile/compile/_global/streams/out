@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Desktop\escala_estudos\src\main\scala\Main.scala:3:14: '<-' expected but '=' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  for(i: Int =0, range(lista)){[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Desktop\escala_estudos\src\main\scala\Main.scala:6:1: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
